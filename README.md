@@ -2,7 +2,8 @@
 ###### With S.Wegs
 
 #### Setting Up Your GitHub Page
-* [How to Setup your GitHub Page](https://shawnwegs.github.io/Guide-to-Setup-GH-Pages/)
+* [syllabus](https://github.com/shawnwegs/Starting-Class/blob/1acc61204da3dfc76a3bbb8832fca1bd03a062bf/syllabus.md)
+* [course discription] ( https://github.com/sanchmar00/syllabus.md/blob/master/README.md)
 
 #### General Syllabus
 * IB MYP Middle School
